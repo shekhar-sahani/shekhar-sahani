@@ -1,6 +1,6 @@
-# cat Shekhar Sahani
+# Shekhar Sahani
 
-## ` Digital Craftsman (Developer)`##
+## ` Digital Craftsman (Developer)`
 
 Hello there! I'm Shekhar Sahani, a passionate and dedicated full stack developer. With a strong foundation in both front-end and back-end development, I love building robust and user-friendly web applications that make a positive impact.
 
@@ -15,7 +15,7 @@ Hello there! I'm Shekhar Sahani, a passionate and dedicated full stack developer
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img align="left" alt="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
