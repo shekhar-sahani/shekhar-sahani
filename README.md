@@ -12,7 +12,6 @@
   <img style="padding:10px" src="https://skillicons.dev/icons?i=nodejs,js,py,react,git,github,tailwind,html,css,django,aws" alt="skills actively learning logos"> <br> 
 </div>
 
-### 📊 Stats
 
 <!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekhar-sahani&show_icons=true&theme=gruvbox) -->
 
