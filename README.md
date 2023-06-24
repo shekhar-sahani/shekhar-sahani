@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <h2 style="border-bottom: 0px" > <strong> 🧰 Languages and Tools </strong></h2> 
+  <h2 style="border-bottom: none" > <strong> 🧰 Languages and Tools </strong></h2> 
   <img style="padding:10px" src="https://skillicons.dev/icons?i=nodejs,js,py,react,git,github,tailwind,html,css,django,aws" alt="skills actively learning logos"> <br> 
 </div>
 
