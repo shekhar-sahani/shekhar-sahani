@@ -23,7 +23,12 @@ Hello there! I'm Shekhar Sahani, a passionate and dedicated full stack developer
 
 <br />
 
-
+<div align="center">
+  <h2> <strong> Actively Learning </strong></h2>
+  <img src="https://skillicons.dev/icons?i=nodejs,js,py,nextjs,mongodb,express,git,github,tailwind,html,css," alt="skills actively learning logos"> <br> 
+  <h2> <strong> Plan to Learn </strong></h2>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin,django,graphql,aws" alt="skills planning to learn logos">
+</div>
 
 ### 📊 Stats
 
