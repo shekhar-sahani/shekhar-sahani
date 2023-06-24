@@ -8,8 +8,8 @@
 ---
 
 <div align="center">
-  <h2> <strong> 🧰 Languages and Tools </strong></h2>
-  <img src="https://skillicons.dev/icons?i=nodejs,js,py,react,git,github,tailwind,html,css,django,aws" alt="skills actively learning logos"> <br> 
+  <h2> <strong> 🧰 Languages and Tools </strong></h2> 
+  <img style="padding:10px" src="https://skillicons.dev/icons?i=nodejs,js,py,react,git,github,tailwind,html,css,django,aws" alt="skills actively learning logos"> <br> 
 </div>
 
 ### 📊 Stats
