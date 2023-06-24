@@ -1,8 +1,8 @@
 # Shekhar Sahani
 
-## ` Digital Craftsman (Developer)`
+## `Digital Craftsman (Developer)`
 
-Hello there! I'm Shekhar Sahani, a passionate and dedicated full stack developer. With a strong foundation in both front-end and back-end development, I love building robust and user-friendly web applications that make a positive impact.
+<p> Hello there! I'm Shekhar Sahani, a passionate and dedicated full stack developer. With a strong foundation in both front-end and back-end development, I love building robust and user-friendly web applications that make a positive impact.</p>
 
 
 <br />
