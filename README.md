@@ -9,7 +9,7 @@ Hello there! I'm Shekhar Sahani, a passionate and dedicated full stack developer
 
 <div align="center">
   <h2> <strong> 🧰 Languages and Tools </strong></h2>
-  <img src="https://skillicons.dev/icons?i=nodejs,js,py,nextjs,reactjs,git,github,tailwind,html,css," alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=nodejs,js,py,react,git,github,tailwind,html,css,django" alt="skills actively learning logos"> <br> 
 </div>
 
 ### 📊 Stats
